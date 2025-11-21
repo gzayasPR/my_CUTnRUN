@@ -1,0 +1,10 @@
+/data/
+/results/
+/softwares/
+/bin/**/*.err
+/bin/**/*.out
+/bash_out/
+/bin/project_env.sh
+/bin/old/
+/bin/scripts/old/
+/bin/scripts/**/old/
